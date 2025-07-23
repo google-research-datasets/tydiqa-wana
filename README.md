@@ -113,3 +113,7 @@ where `LANG` is in `[ar, az, fa, he, hy, tg, tr]`.
 
 If you have a technical question regarding the dataset, code or publication,
 please create an issue in this repository. This is the fastest way to reach us.
+
+## Disclaimer
+
+This is not an officially supported Google product.
